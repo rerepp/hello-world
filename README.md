@@ -5,8 +5,8 @@
 
 *this is italicized text*
 
-> Here is an example \n
-> of a block quote\n
+> Here is an example  
+> of a block quote  
 >     - someone, probably
 
 
